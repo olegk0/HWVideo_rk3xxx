@@ -10,4 +10,7 @@ Sources:
 * https://github.com/olegk0/librklayers
 * https://github.com/olegk0/rk3x_kernel_3.0.36
 
-Binaries <a href="https://drive.google.com/folderview?id=0B6QRwjacGTzCOHJqbkg1Ukp5UFE&usp=sharing">here</a>
+Binaries:
+* <a href="https://drive.google.com/folderview?id=0B6QRwjacGTzCOHJqbkg1Ukp5UFE&usp=sharing">libs</a>
+* <a href="https://drive.google.com/folderview?id=0B6QRwjacGTzCOGRvcWNzRXZubEU&usp=sharing">video drv</a>
+* <a href="https://drive.google.com/folderview?id=0B6QRwjacGTzCMERsVFJ2bnNlOFU&usp=sharing">kernel</a>

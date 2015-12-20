@@ -8,7 +8,7 @@ Sources:
 * https://github.com/amxbc/hardware_drivers.git
 * https://github.com/olegk0/libvdpau-rk3x
 * https://github.com/olegk0/librklayers
-* https://github.com/olegk0/rk3x_kernel_3.0.36
+* https://github.com/olegk0/rk3x_kernel_3.0.36/tree/r3.0-0
 
 Binaries:
 * <a href="https://drive.google.com/folderview?id=0B6QRwjacGTzCOHJqbkg1Ukp5UFE&usp=sharing">libs</a>

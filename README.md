@@ -15,4 +15,4 @@ Binaries:
 * <a href="https://drive.google.com/folderview?id=0B6QRwjacGTzCOGRvcWNzRXZubEU&usp=sharing">video drv</a>
 * <a href="https://drive.google.com/folderview?id=0B6QRwjacGTzCMERsVFJ2bnNlOFU&usp=sharing">kernel</a>
 * <a href="https://drive.google.com/drive/folders/0B6QRwjacGTzCaUFPcGRJakttRU0?usp=sharing">libs for rk3288</a>
-* <a href="https://drive.google.com/drive/folders/0B6QRwjacGTzCQnR0RG9CSTUydG8?usp=sharing">kernel rk3288</a>
+* <a href="https://drive.google.com/drive/folders/0B6QRwjacGTzCQnR0RG9CSTUydG8?usp=sharing">kernel rk3288 (MK903V)</a>
